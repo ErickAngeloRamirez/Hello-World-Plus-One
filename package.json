@@ -1,0 +1,15 @@
+{
+  "name": "hello-world-plus-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expo-cli": "^6.3.10"
+  }
+}
